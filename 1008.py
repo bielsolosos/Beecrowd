@@ -1,0 +1,6 @@
+num=(int(input()))
+hora=(int(input()))
+horat=(float(input()))
+horat=(hora*horat)
+print("NUMBER =",num)
+print("SALARY = U$ {:.2f}".format(horat))
